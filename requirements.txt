@@ -1,0 +1,10 @@
+# Knowledge Graph Dependencies
+owlready2>=0.37
+rdflib>=6.0.0
+pandas>=1.3.0
+networkx>=2.6.0
+
+# API Dependencies
+fastapi>=0.95.0
+uvicorn>=0.21.0
+python-multipart>=0.0.6
